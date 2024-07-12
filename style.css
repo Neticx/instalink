@@ -41,8 +41,8 @@ header img {
 }
 
 .link img {
-    height: 200px;
-    width: 200px;
+    max-height: 700px;
+    max-width: 400px;
     margin-bottom: 10px;
 
     transition: transform .2s;
